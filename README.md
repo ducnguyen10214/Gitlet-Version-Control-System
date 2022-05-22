@@ -27,3 +27,4 @@ I only summarized the functions below. For a more comprehensive documentation of
 - `java gitlet.Main pull [remote name] [remote branch name]`: Fetches branch `[remote name]/[remote branch name]` as for the fetch command, and then merges that fetch into the current branch.
 ## Confidentiality
 - A CS61B project of UC Berkeley.
+- Completed: Fall 2021
